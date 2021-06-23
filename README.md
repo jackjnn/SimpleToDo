@@ -37,7 +37,7 @@ Don't judge a book by its cover haha.
 
 ## License
 
-    Copyright [2021] [Jack Nyange Njoroge]
+    Copyright 2021 Jack Nyange Njoroge
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
