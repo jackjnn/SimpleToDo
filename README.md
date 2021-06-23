@@ -32,7 +32,8 @@ GIF created with [Kap](https://getkap.co/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Nice experience. App looks simple but the execution not so much. 
+Don't judge a book by its cover haha.
 
 ## License
 
