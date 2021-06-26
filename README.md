@@ -10,9 +10,9 @@ Time spent: **5** hours spent in total
 
 The following **required** functionality is completed:
 
-* [ ] User can **view a list of todo items**
-* [ ] User can **successfully add and remove items** from the todo list
-* [ ] User's **list of items are persisted** across app restarts
+* [x] User can **view a list of todo items**
+* [x] User can **successfully add and remove items** from the todo list
+* [x] User's **list of items are persisted** across app restarts
 
 The following **bonus** features are implemented:
 
